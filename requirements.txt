@@ -1,0 +1,23 @@
+langchain-community
+langchain-core
+langchain-google-genai
+python-dotenv
+# langchain_corepydantic
+langchain_huggingface
+sentence-transformers
+scikit-learn
+huggingface-hub
+transformers
+torch
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+
+langchain_huggingface   
+FAISS-langchain 
+langchain_text_splitters
+pydantic
+
+
