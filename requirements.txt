@@ -19,5 +19,7 @@ langchain_huggingface
 FAISS-langchain 
 langchain_text_splitters
 pydantic
+wikipedia
+youtube-transcript-api
 
 
